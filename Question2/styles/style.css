@@ -1,0 +1,18 @@
+.head{
+    position: fixed;
+    top: 100px;        
+    left: 420px;  
+	
+}
+
+
+.calculatorbody{
+    display: flex;
+    position: fixed;
+    width: 25%; height: 25%;
+    padding: 30px;
+	border-style: solid;
+    
+    top: 200px;        
+    left: 500px;  
+}
